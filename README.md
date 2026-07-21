@@ -69,7 +69,7 @@ spam-classifier-machine-learning/
 1. Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/spam-classifier-machine-learning.git
+git clone https://github.com/ErvinAjdinovic/spam-classifier-machine-learning.git
 ```
 
 2. Install the required libraries
