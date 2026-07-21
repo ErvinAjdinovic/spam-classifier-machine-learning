@@ -105,7 +105,16 @@ jupyter notebook
 ---
 
 ## 👨‍💻 Author
-
 **Ervin Ajdinovic**
 
 Python • Machine Learning • Data Analysis
+
+---
+
+## ⭐ Results
+
+- Successfully classified SMS messages into **Spam** and **Ham**
+- Compared four Machine Learning models
+- Achieved over **97% accuracy**
+- Visualized model performance and confusion matrix
+
