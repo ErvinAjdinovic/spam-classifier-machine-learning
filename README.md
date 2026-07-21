@@ -68,12 +68,15 @@ A final comparison chart was created to compare the accuracy of all models.
 
 ## 📂 Project Structure
 
-```
 spam-classifier-machine-learning/
 │
 ├── spam_model_evaluation.ipynb
 ├── messages.csv
-└── README.md
+├── model_accuracy_comparision.png
+├── Confusion_Matrix_Linear-SVC.png
+├── README.md
+├── LICENSE
+└── .gitignore
 ```
 
 ---
