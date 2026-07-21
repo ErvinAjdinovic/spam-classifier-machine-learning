@@ -50,6 +50,20 @@ Each model was evaluated using:
 
 A final comparison chart was created to compare the accuracy of all models.
 
+## 📈 Model Accuracy Comparison
+
+<p align="center">
+  <img src="model_accuracy_comparision.png" width="700">
+</p>
+
+---
+
+## 🔥 Confusion Matrix (Linear SVC)
+
+<p align="center">
+  <img src="Confusion_Matrix_Linear-SVC.png" width="600">
+</p>
+
 ---
 
 ## 📂 Project Structure
