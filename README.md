@@ -68,8 +68,6 @@ A final comparison chart was created to compare the accuracy of all models.
 
 ## 📂 Project Structure
 
-
-
 spam-classifier-machine-learning/
 │
 ├── spam_model_evaluation.ipynb
@@ -80,11 +78,6 @@ spam-classifier-machine-learning/
 ├── LICENSE
 └── .gitignore
 ```
-
-
-
-
-
 ---
 
 ## 🚀 How to Run
